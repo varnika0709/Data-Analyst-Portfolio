@@ -34,7 +34,32 @@ I'm always open to networking and learning from fellow data enthusiasts. Feel fr
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
 ### Table of contents
-[About Me](#About-Me)
+-[About Me](#About-Me)
+-### Portfolio Projects
+<a Table of content="Portfolio-Projects"></a>
+   -Python
+   - Global YouTube Satistics 
+    <a Table of content="Global YouTube Satistics "></a>
+    -Walmart Data Analysis
+     <a Table of content="-Walmart Data Analysis "></a>
+   -Excel
+    -Sales Store Annual Report 
+     <a Table of content=" Sales Store Annual Report "></a>
+   -Tableau
+    -HR Analytics
+     <a Table of content="HR Analytics "></a>
+    - Sleeping and Lifestyle Schedule
+      <a Table of content="Sleeping and Lifestyle Schedule"></a>
+   ### Education
+      
+       
+     
+     
+    
+   
+   
+
+
 
 
 
