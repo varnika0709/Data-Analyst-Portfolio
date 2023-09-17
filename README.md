@@ -36,12 +36,17 @@ My short-term goal is to land my first job or internship in the field of data an
 ### Table of contents
 -[About Me](#About-Me)
 - [My Excel Projects](#my-excel-projects)
+- [Sales Store Analysis](#![Sales store annual report](https://github.com/varnika0709/Data-Analyst-Portfolio/assets/130127712/c4efb069-cbdf-45b5-b313-7762dccd07ce)
 - [My Python Projects](#my-python-projects)
 - [My Tableau Projects](#my-tableau-projects)
 - [My Power BI Projects](#my-power-bi-projects)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
+
+- ### Portfolio Projects
+-  Here, you'll find a collection of my Excel projects:
+-  
        
      
      
