@@ -94,6 +94,11 @@ My short-term goal is to land my first job or internship in the field of data an
  enhance overall well-being, energy levels, and productivity while reducing the risk of health issues associated with irregular sleep and unhealthy habits.
  
 -**Technology** Tableau 
+### My PowerBI Projects
+
+### Ecommerce Sales Data
+
+**Code** 
        
      
      
