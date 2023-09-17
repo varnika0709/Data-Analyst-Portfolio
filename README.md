@@ -53,7 +53,6 @@ My short-term goal is to land my first job or internship in the field of data an
 
  **Description** This report will analyze and present key sales data, trends, and insights from the past year, helping stakeholders understand the store's financial health, identify 
                    areas for improvement, and make informed decisions for the future.
-
   **Technology** Excel
 -  
 
@@ -75,10 +74,13 @@ My short-term goal is to land my first job or internship in the field of data an
 -   Walmart Data Analysis
     
   **Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
+  
   **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently 
            and minimizes stockouts.
+           
   **Description** In this project, we'll use data and math to figure out when and how much of each product the store should have. This will ensure that they don't disappoint customers 
                    by running out of popular items and also avoid wasting money on too much inventory.
+                   
   **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
   ### My Tableau Projects
