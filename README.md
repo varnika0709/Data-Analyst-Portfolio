@@ -42,8 +42,9 @@ My short-term goal is to land my first job or internship in the field of data an
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
+  
 
--### PORTFOLIO PROJECTS
+### PORTFOLIO PROJECTS
 
 ### MY EXCEL PROJECTS
   
