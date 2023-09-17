@@ -106,29 +106,29 @@ My short-term goal is to land my first job or internship in the field of data an
 
 ### EDUCATION
 
- ITS, Mohannagar: Bachelor of Computer Applications, SEP 2020-JUNE 2023
+ -ITS, Mohannagar: Bachelor of Computer Applications, SEP 2020-JUNE 2023
 
- ST Teresa Academy, Modinagar (ICSE): Xth, MARCH 2017-MARCH 2018
+ -ST Teresa Academy, Modinagar (ICSE): Xth, MARCH 2017-MARCH 2018
 
- ST Teresa Academy, Modinagar (ISE): XIIth, MARCH 2019-MARCH 2020
+ -ST Teresa Academy, Modinagar (ISE): XIIth, MARCH 2019-MARCH 2020
 
  ### CERTIFICATE
 
  The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
  Here's a list of the ones I have.
 
- Google Data Analytics Proffesional Certifacte- AUG 2023
+ -Google Data Analytics Proffesional Certifacte- AUG 2023
 
- Google Data Analytics Advanced Certificate- Aug 2023
+ -Google Data Analytics Advanced Certificate- Aug 2023
 
- Python for IBM Data Science Proffesional Certificate- AUG 2022
+ -Python for IBM Data Science Proffesional Certificate- AUG 2022
 
 
 ### CONTACT
 
-LinkedLn[@varnika-bhardwaj07](https://www.linkedin.com/in/varnika-bhardwaj07)
+-LinkedLn[@varnika-bhardwaj07](https://www.linkedin.com/in/varnika-bhardwaj07)
 
-Email- varnikabhardwaj0709@gmail.com
+-Email- varnikabhardwaj0709@gmail.com
        
      
      
