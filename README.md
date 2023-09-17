@@ -4,6 +4,7 @@
 Hi there! I'm Varnika Bhardwaj, a passionate and aspiring Data Analyst. I'm thrilled to embark on my journey into the world of data analysis, and GitHub is where I document my projects, share my insights, and collaborate with others who share my enthusiasm for data.
 
 ### About Me
+<a Table of content="about-me"></a>
 
 -  Data Analysis Enthusiast
 -  Recent Graduate in Bachelors of computer applications
@@ -33,7 +34,7 @@ I'm always open to networking and learning from fellow data enthusiasts. Feel fr
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
 ### Table of contents
-[About] https://github.com/varnika0709/Data-Analyst-Portfolio.git # About Me
+[About Me](#About-Me)
 
 
 
