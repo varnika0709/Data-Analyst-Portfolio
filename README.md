@@ -45,7 +45,7 @@ My short-term goal is to land my first job or internship in the field of data an
 
 - ### PORTFOLIO PROJECTS
 
- ### MY EXCEL PROJECTS
+### MY EXCEL PROJECTS
   
  ### Sales Store Annual Report
   
