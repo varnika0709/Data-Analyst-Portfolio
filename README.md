@@ -35,23 +35,6 @@ My short-term goal is to land my first job or internship in the field of data an
 
 ### Table of contents
 -[About Me](#About-Me)
--[Portfolio Projects](#portfolio-projects)
-<a Table of content="Portfolio-Projects"></a>
-  -[Python](#Python)
-   - [Global YouTube Satistics]
-    <a Table of content="Global YouTube Satistics "></a>
-    -Walmart Data Analysis
-     <a Table of content="-Walmart Data Analysis "></a>
-   -Excel
-    -Sales Store Annual Report 
-     <a Table of content=" Sales Store Annual Report "></a>
-   -Tableau
-    -HR Analytics
-     <a Table of content="HR Analytics "></a>
-    - Sleeping and Lifestyle Schedule
-      <a Table of content="Sleeping and Lifestyle Schedule"></a>
-   ### Education
-      [About Me](#about-me)
 - [My Excel Projects](#my-excel-projects)
 - [My Python Projects](#my-python-projects)
 - [My Tableau Projects](#my-tableau-projects)
