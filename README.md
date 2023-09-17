@@ -47,7 +47,16 @@ My short-term goal is to land my first job or internship in the field of data an
 -  Here, you'll find a collection of my Excel projects:
 -  ### My Excel Projects
 -  ### Sales Store Annual Report
--  **Code** [Sales Store Annual Report]
+-  **Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
+
+-  **Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
+
+-  **Description** This report will analyze and present key sales data, trends, and insights from the past year, helping stakeholders understand the store's financial health, identify 
+                   areas for improvement, and make informed decisions for the future.
+
+   **Tecgnology** Excel
+-  
+
 -  ### Python Projects
 -   Global YouTube Satistics
    **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
