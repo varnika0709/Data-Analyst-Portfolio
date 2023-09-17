@@ -48,24 +48,23 @@ My short-term goal is to land my first job or internship in the field of data an
 -  ### Sales Store Annual Report
 -  **Code** [Sales Store Annual Report]
 -  ### Python Projects
--   lobal YouTube Satistics
+-   Global YouTube Satistics
 -  **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
--  
--   *Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
--  
--  **Description**  In this project, I aim to provide YouTube creators with actionable insights and strategies to enhance their channel 
+-   Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
+-   *Description**  In this project, I aim to provide YouTube creators with actionable insights and strategies to enhance their channel 
     performance and audience engagement. By analyzing top YouTube channels, identifying regional influencers, and exploring earnings 
     data, I intend to empower content creators with the knowledge they need to succeed in the competitive world of online video. 
     Additionally, geospatial visualizations and trend analysis will offer a comprehensive view of YouTube's global impact and the factors 
     that drive the popularity of different content categories.
-   
-   **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+     **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
 -   Walmart Data Analysis
--  **Code** [Walmart Data Analysis](
--  **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently and minimizes stockouts.
-
--  **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+-  **Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
+-  **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently 
+           and minimizes stockouts.
+   **Description** In this project, we'll use data and math to figure out when and how much of each product the store should have. This will ensure that they don't disappoint customers 
+                   by running out of popular items and also avoid wasting money on too much inventory.
+   **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
 -  
 -  ### My Tableau Projects
 -  HR Analytics
