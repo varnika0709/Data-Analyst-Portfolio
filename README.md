@@ -2,7 +2,7 @@
 
 Hello! I'm Varnika Bhardwaj, a dynamic and highly motivated data enthusiast who thrives on transforming raw data into actionable insights. I recently graduated with a degree in Bachelors of computer applications, and I'm ready to dive headfirst into the world of data analysis.
 
-My journey began with a deep curiosity about how data drives decisions and shapes the world around us. I possess a solid foundation in statistical analysis, data visualization, and a knack for uncovering hidden patterns within datasets. My goal is to harness the power of data to provide valuable solutions and recommendations.
+My journey began with a deep curiosity about how data drives decisions and shapes the world around us. I possess a solid foundation in statistical analysis, data visualization, and a knack for uncovering hidden patterns within datasets. My goal is to harness the power of data to provide valuable solutions and recommendations. 
 
 ### Table of contents
 - [About Me](#About-Me)
