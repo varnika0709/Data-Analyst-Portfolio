@@ -43,9 +43,9 @@ My short-term goal is to land my first job or internship in the field of data an
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-- ### Portfolio Projects
+- ### PORTFOLIO PROJECTS
 -  Here, you'll find a collection of my Excel projects:
-  ### My Excel Projects
+  ### MY EXCEL PROJECTS
   
   ### Sales Store Annual Report
   
@@ -56,7 +56,7 @@ My short-term goal is to land my first job or internship in the field of data an
  -**Technology** Excel
  
 
- ### My Python Projects
+ ### MY PYTHON PROJECTS
  
  ### Global YouTube Satistics
    
@@ -75,7 +75,7 @@ My short-term goal is to land my first job or internship in the field of data an
 
  -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
- ### My Tableau Projects
+ ### MY TABLEAU PROJECTS
  
  ### HR Analytics
 
@@ -94,7 +94,8 @@ My short-term goal is to land my first job or internship in the field of data an
  enhance overall well-being, energy levels, and productivity while reducing the risk of health issues associated with irregular sleep and unhealthy habits.
  
 -**Technology** Tableau 
-### My PowerBI Projects
+
+### My POWERBI PROJECTS
 
 ### Ecommerce Sales Data
 
