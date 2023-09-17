@@ -103,6 +103,13 @@ My short-term goal is to land my first job or internship in the field of data an
 -**Goal** The goal involves analyzing and leveraging eCommerce sales data to identify trends, customer preferences, and areas for improvement. By implementing data-driven strategies, the objective is to increase sales, enhance the shopping experience, and ultimately drive the success of the eCommerce business.
 
 -**Technology** PowerBi
+
+### EDUCATION
+** ITS, Mohannagar: Bachelor of Computer Applications, SEP 2020-JUNE 2023**
+** ST Teresa Academy, Modinagar (ICSE): Xth, MARCH 2017-MARCH 2018**
+ST Teresa Academy, Modinagar (ISE): XIIth, MARCH 2019-MARCH 2020**
+
+
        
      
      
