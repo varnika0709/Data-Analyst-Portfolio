@@ -38,6 +38,7 @@ My short-term goal is to land my first job or internship in the field of data an
 ### Portfolio Projects
 -[Portfolio Projects](#portfolio-projects)
 <a Table of content="Portfolio-Projects"></a>
+### Python
    -Python
    - Global YouTube Satistics 
     <a Table of content="Global YouTube Satistics "></a>
