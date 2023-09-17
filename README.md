@@ -35,6 +35,7 @@ My short-term goal is to land my first job or internship in the field of data an
 
 ### Table of contents
 -[About Me](#About-Me)
+
 -[Portfolio Projects](#portfolio-projects)
 <a Table of content="Portfolio-Projects"></a>
    -Python
