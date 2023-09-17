@@ -34,7 +34,7 @@ I'm always open to networking and learning from fellow data enthusiasts. Feel fr
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
 ### Table of contents
--[About Me](#About-Me)
+- [About Me](#About-Me)
 - [My Excel Projects](#my-excel-projects)
 - [My Python Projects](#my-python-projects)
 - [My Tableau Projects](#my-tableau-projects)
@@ -48,6 +48,7 @@ My short-term goal is to land my first job or internship in the field of data an
   ### My Excel Projects
   
   ### Sales Store Annual Report
+  
  -**Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
 
  -**Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
@@ -57,7 +58,7 @@ My short-term goal is to land my first job or internship in the field of data an
 
  ### My Python Projects
  
- ###Global YouTube Satistics
+ ### Global YouTube Satistics
    
  -**Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
   
@@ -65,7 +66,7 @@ My short-term goal is to land my first job or internship in the field of data an
    
  -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
- ###Walmart Data Analysis
+ ### Walmart Data Analysis
 
  -**Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
   
@@ -76,7 +77,7 @@ My short-term goal is to land my first job or internship in the field of data an
    
  ### My Tableau Projects
  
- ###HR Analytics
+ ### HR Analytics
 
  -**Code** [HR Analytics](https://public.tableau.com/views/HRanalyticsdashboard_16886703915220/HRanalyticsdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -92,7 +93,7 @@ My short-term goal is to land my first job or internship in the field of data an
 -**Goal**  The goal is to prioritize and regulate sleep patterns, incorporate balanced nutrition, and include physical activity in daily routines. This lifestyle change aims to 
  enhance overall well-being, energy levels, and productivity while reducing the risk of health issues associated with irregular sleep and unhealthy habits.
  
-- **Technology** Tableau 
+-**Technology** Tableau 
        
      
      
