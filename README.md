@@ -86,7 +86,7 @@ My short-term goal is to land my first job or internship in the field of data an
 
  -**Technology** Tableau
  
- ###Sleeping Schedule and lifestyle
+ ### Sleeping Schedule and lifestyle
 
 -**Code** [Sleeping Schedule and Lifestyle](https://public.tableau.com/views/SleephealthandlifestyleDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
