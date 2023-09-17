@@ -47,13 +47,13 @@ My short-term goal is to land my first job or internship in the field of data an
 
   ### MY EXCEL PROJECTS
   
-  ### Sales Store Annual Report
+ ### Sales Store Annual Report
   
-    -**Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
+  -**Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
 
-    -**Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
+  -**Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
   
-    -**Technology** Excel
+  -**Technology** Excel
  
 
  ### MY PYTHON PROJECTS
