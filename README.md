@@ -46,50 +46,52 @@ My short-term goal is to land my first job or internship in the field of data an
 - ### Portfolio Projects
 -  Here, you'll find a collection of my Excel projects:
   ### My Excel Projects
+  
   ### Sales Store Annual Report
-  **Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
+ -**Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
 
-  **Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
+ -**Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
   
-  **Technology** Excel
+ -**Technology** Excel
  
 
- ###My Python Projects
+ ### My Python Projects
  
--Global YouTube Satistics
+ ###Global YouTube Satistics
    
- **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
+ -**Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
   
- **Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
+ -**Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
    
- **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+ -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
--Walmart Data Analysis
+ ###Walmart Data Analysis
 
- **Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
+ -**Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
   
- **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently 
+ -**Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently 
            and minimizes stockouts.
 
- **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+ -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
  ### My Tableau Projects
--HR Analytics
+ 
+ ###HR Analytics
 
- **Code** [HR Analytics](https://public.tableau.com/views/HRanalyticsdashboard_16886703915220/HRanalyticsdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+ -**Code** [HR Analytics](https://public.tableau.com/views/HRanalyticsdashboard_16886703915220/HRanalyticsdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
- **Goal**  Develop an HR analytics dashboard using Tableau to provide actionable insights into employee performance, retention, and recruitment, enhancing strategic decision-making 
+ -**Goal**  Develop an HR analytics dashboard using Tableau to provide actionable insights into employee performance, retention, and recruitment, enhancing strategic decision-making 
   and optimizing HR processes.
 
- **Technology** Tableau
+ -**Technology** Tableau
  
-- Sleeping Schedule and lifestyle
+ ###Sleeping Schedule and lifestyle
 
-  **Code** [Sleeping Schedule and Lifestyle](https://public.tableau.com/views/SleephealthandlifestyleDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+-**Code** [Sleeping Schedule and Lifestyle](https://public.tableau.com/views/SleephealthandlifestyleDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-- **Goal**  The goal is to prioritize and regulate sleep patterns, incorporate balanced nutrition, and include physical activity in daily routines. This lifestyle change aims to 
+-**Goal**  The goal is to prioritize and regulate sleep patterns, incorporate balanced nutrition, and include physical activity in daily routines. This lifestyle change aims to 
  enhance overall well-being, energy levels, and productivity while reducing the risk of health issues associated with irregular sleep and unhealthy habits.
-
+ 
 - **Technology** Tableau 
        
      
