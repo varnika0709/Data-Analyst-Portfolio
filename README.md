@@ -51,7 +51,14 @@ My short-term goal is to land my first job or internship in the field of data an
     - Sleeping and Lifestyle Schedule
       <a Table of content="Sleeping and Lifestyle Schedule"></a>
    ### Education
-      
+      [About Me](#about-me)
+- [My Excel Projects](#my-excel-projects)
+- [My Python Projects](#my-python-projects)
+- [My Tableau Projects](#my-tableau-projects)
+- [My Power BI Projects](#my-power-bi-projects)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
        
      
      
