@@ -98,7 +98,11 @@ My short-term goal is to land my first job or internship in the field of data an
 
 ### Ecommerce Sales Data
 
-**Code** 
+-**Code** [Ecommerce Sales Data](https://github.com/varnika0709/Ecommerce-Sales-Dashboard-using-PowerBI)
+
+-**Goal** The goal involves analyzing and leveraging eCommerce sales data to identify trends, customer preferences, and areas for improvement. By implementing data-driven strategies, the objective is to increase sales, enhance the shopping experience, and ultimately drive the success of the eCommerce business.
+
+-**Technology** PowerBi
        
      
      
