@@ -48,11 +48,10 @@ My short-term goal is to land my first job or internship in the field of data an
 -  ### Sales Store Annual Report
 -  **Code** [Sales Store Annual Report]
 -  ### Python Projects
--  Explore my Python projects:
--  Global YouTube Satistics
--  **Code** [Global YouTube Satistics](C:\Users\Admin\OneDrive\Desktop\Projects\global youtube statistics.ipynb)
-
--  **Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
+-   lobal YouTube Satistics
+-  **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
+-  
+-   *Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
 -  
 -  **Description**  In this project, I aim to provide YouTube creators with actionable insights and strategies to enhance their channel 
     performance and audience engagement. By analyzing top YouTube channels, identifying regional influencers, and exploring earnings 
@@ -63,8 +62,7 @@ My short-term goal is to land my first job or internship in the field of data an
    **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
 -   Walmart Data Analysis
--  **Code** [Walmart Data Analysis](C:\Users\Admin\OneDrive\Desktop\Projects\walmart analysis.ipynb)
-
+-  **Code** [Walmart Data Analysis](
 -  **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently and minimizes stockouts.
 
 -  **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
