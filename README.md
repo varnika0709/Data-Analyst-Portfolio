@@ -32,10 +32,28 @@ I'm always open to networking and learning from fellow data enthusiasts. Feel fr
 
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
-Thanks for visiting my GitHub profile! Let's learn, grow, and analyze data together. 
+### Table of contents
+[About me](#About me)
 
 
-Tabel of contents
+###Portfolio Projects
+[Python]
+C:\Users\Admin\OneDrive\Desktop\Projects\global youtube statistics.ipynb
+C:\Users\Admin\OneDrive\Desktop\Projects\walmart analysis.ipynb
+[Excel]
+![Sales store annual report](https://github.com/varnika0709/Data-Analyst-Portfolio/assets/130127712/01b5c22b-fdf2-4b1a-be72-00d3159ad1a0)
+[Tableau]
+![HR Analytics Dashboard](https://github.com/varnika0709/Data-Analyst-Portfolio/assets/130127712/38506c7d-1f13-4eca-aae8-cb673286441b)
+![sleep schedule dashboard](https://github.com/varnika0709/Data-Analyst-Portfolio/assets/130127712/429d1f61-2240-49e2-80f8-791ef1672570)
+
+
+
+
+
+
+
+
+
 
 
 
