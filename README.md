@@ -35,13 +35,10 @@ My short-term goal is to land my first job or internship in the field of data an
 
 ### Table of contents
 -[About Me](#About-Me)
-### Portfolio Projects
 -[Portfolio Projects](#portfolio-projects)
 <a Table of content="Portfolio-Projects"></a>
-### Python
-   -[Python](#Python)
-    - ### Global YouTube Satistics
-   - [Global YouTube Satistics](#Global YouTube Satistics)
+  -[Python](#Python)
+   - [Global YouTube Satistics]
     <a Table of content="Global YouTube Satistics "></a>
     -Walmart Data Analysis
      <a Table of content="-Walmart Data Analysis "></a>
