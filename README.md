@@ -1,3 +1,4 @@
+### VARNIKA BHARDWAJ Data Analyst Portfolio
 ### About Me
 
 Hello! I'm Varnika Bhardwaj, a dynamic and highly motivated data enthusiast who thrives on transforming raw data into actionable insights. I recently graduated with a degree in Bachelors of computer applications, and I'm ready to dive headfirst into the world of data analysis.
