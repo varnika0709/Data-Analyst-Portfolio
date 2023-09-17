@@ -47,46 +47,48 @@ My short-term goal is to land my first job or internship in the field of data an
 -  Here, you'll find a collection of my Excel projects:
 -  ### My Excel Projects
 -  ### Sales Store Annual Report
--  **Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
+-    **Code** [Sales Store Annual Report](https://github.com/varnika0709/Sales-store-Annual-report-2022-using-excel)
 
 -  **Goal** Created a comprehensive annual report that provides a clear overview of the store's sales performance throughout the year.
 
 -  **Description** This report will analyze and present key sales data, trends, and insights from the past year, helping stakeholders understand the store's financial health, identify 
                    areas for improvement, and make informed decisions for the future.
 
-   **Tecgnology** Excel
+   **Technology** Excel
 -  
 
 -  ### Python Projects
 -   Global YouTube Satistics
-   **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
+-   
+  **Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
   
-   **Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
+  **Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
    
-   **Description**  In this project, I aim to provide YouTube creators with actionable insights and strategies to enhance their channel 
-    performance and audience engagement. By analyzing top YouTube channels, identifying regional influencers, and exploring earnings 
-    data, I intend to empower content creators with the knowledge they need to succeed in the competitive world of online video. 
-    Additionally, geospatial visualizations and trend analysis will offer a comprehensive view of YouTube's global impact and the factors 
-    that drive the popularity of different content categories.
-     **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+  **Description**  In this project, I aim to provide YouTube creators with actionable insights and strategies to enhance their channel 
+  performance and audience engagement. By analyzing top YouTube channels, identifying regional influencers, and exploring earnings 
+  data, I intend to empower content creators with the knowledge they need to succeed in the competitive world of online video. 
+  Additionally, geospatial visualizations and trend analysis will offer a comprehensive view of YouTube's global impact and the factors 
+  that drive the popularity of different content categories.
+  
+  **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
 -   Walmart Data Analysis
--  **Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
+  **Code** [Walmart Data Analysis](https://github.com/varnika0709/walmart-Data-analysis-using-python)
   **Goal** Utilize data analysis and predictive modeling to accurately forecast sales and optimize inventory management, ensuring the retail chain meets customer demand efficiently 
            and minimizes stockouts.
-   **Description** In this project, we'll use data and math to figure out when and how much of each product the store should have. This will ensure that they don't disappoint customers 
+  **Description** In this project, we'll use data and math to figure out when and how much of each product the store should have. This will ensure that they don't disappoint customers 
                    by running out of popular items and also avoid wasting money on too much inventory.
-   **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
+  **Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
 -  ### My Tableau Projects
 -  HR Analytics
-- **Code** [HR Analytics](https://public.tableau.com/views/HRanalyticsdashboard_16886703915220/HRanalyticsdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+**Code** [HR Analytics](https://public.tableau.com/views/HRanalyticsdashboard_16886703915220/HRanalyticsdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-- **Goal**  Develop an HR analytics dashboard using Tableau to provide actionable insights into employee performance, retention, and recruitment, enhancing strategic decision-making and optimizing HR processes.
+**Goal**  Develop an HR analytics dashboard using Tableau to provide actionable insights into employee performance, retention, and recruitment, enhancing strategic decision-making and optimizing HR processes.
 
-- **Description** The goal of this project is to create a comprehensive HR analytics dashboard using Tableau that leverages employee data to offer in-depth insights into key HR metrics. This dashboard will enable HR professionals and organizational leaders to make informed decisions related to talent management, workforce planning, and employee engagement, ultimately fostering a more productive and engaged workforce while enhancing HR operational efficiency.
+**Description** The goal of this project is to create a comprehensive HR analytics dashboard using Tableau that leverages employee data to offer in-depth insights into key HR metrics. This dashboard will enable HR professionals and organizational leaders to make informed decisions related to talent management, workforce planning, and employee engagement, ultimately fostering a more productive and engaged workforce while enhancing HR operational efficiency.
 
-- **Technology** Tableau
+ **Technology** Tableau
 - 
 -  
 -  
