@@ -33,7 +33,7 @@ I'm always open to networking and learning from fellow data enthusiasts. Feel fr
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
 ### Table of contents
-[About] https://github.com/Varnika Bhardwaj/Data-Analysis-Portfolio/blob/main/README.md#about me
+[About] 
 
 
 
