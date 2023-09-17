@@ -44,7 +44,7 @@ My short-term goal is to land my first job or internship in the field of data an
 - [Contact](#contact)
 
 - ### PORTFOLIO PROJECTS
--  Here, you'll find a collection of my Excel projects:
+
   ### MY EXCEL PROJECTS
   
   ### Sales Store Annual Report
