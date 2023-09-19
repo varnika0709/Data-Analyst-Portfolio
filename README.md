@@ -35,7 +35,9 @@ My journey began with a deep curiosity about how data drives decisions and shape
    
  -**Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
   
- -**Goal** 
+ -**Goal**  The goal of global YouTube statistics is to assess and rank YouTube channels worldwide, considering various metrics and demographic indicators, to provide comprehensive 
+            insights into platform performance and regional dynamics.
+ 
  -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
  ### Walmart Data Analysis
