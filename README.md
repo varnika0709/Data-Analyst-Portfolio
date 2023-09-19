@@ -35,8 +35,7 @@ My journey began with a deep curiosity about how data drives decisions and shape
    
  -**Code** [Global YouTube Satistics](https://github.com/varnika0709/Global-Youtube-satistics-using-python)
   
- -**Goal** "To optimize content strategies and channel performance for YouTube creators worldwide by leveraging valuable insights and trends."
-   
+ -**Goal** 
  -**Technology** Python, Pandas ,Numpy , Seaborn, Matplotlib, Scipy
    
  ### Walmart Data Analysis
