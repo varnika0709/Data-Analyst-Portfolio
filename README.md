@@ -101,7 +101,7 @@ My journey began with a deep curiosity about how data drives decisions and shape
 
 ### CONTACT
 
--LinkedLn[@varnika-bhardwaj07](https://www.linkedin.com/in/varnika-bhardwaj07)
+-LinkedLn - [@varnika-bhardwaj07](https://www.linkedin.com/in/varnika-bhardwaj07)
 
 -Email- varnikabhardwaj0709@gmail.com
        
